@@ -6,6 +6,6 @@ public class FirstLesson {
 
         result = a*b;
 
-        System.out.println(result);
+        System.out.println("Result: " + result);
     }
 }
